@@ -1,5 +1,5 @@
 
-## AutoStream Conversational AI Agent (Gemini)
+## Agentic-lead-capture-gemini
 
 This project demonstrates a stateful conversational AI agent that converts conversations into qualified leads for a fictional SaaS product, AutoStream.
 
