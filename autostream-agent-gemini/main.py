@@ -1,8 +1,8 @@
 import os
 import warnings
 from dotenv import load_dotenv
-from state import AgentState
-from graph import agent_step
+from agent.state import AgentState
+from agent.graph import agent_step
 
 # Suppress SSL warnings from gRPC
 os.environ['GRPC_VERBOSITY'] = 'ERROR'
